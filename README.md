@@ -1,5 +1,5 @@
-### Hi there 👋
-
+HOLA MI NOMBRE ES JOSUE RANGEL 
+ACTUALMENTE ESTOY ESTUDIANDO EL CURSO EN FUNDAMENTOS EN PROGRAMACION WEB 
 <!--
 **JOSUEFF1788/JOSUEFF1788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
